@@ -108,6 +108,4 @@ h5.Dark {
       background-color: #000000;
       opacity: 0.9;
       }
-  
-
   `;
