@@ -27,7 +27,7 @@ export const Projects = () => {
         </div>
         <div className="tecs__project">
           <p>
-            Tecnologias:<span>JavaScript, React e CSS.</span>{" "}
+            Tecnologias:<span>JavaScript, React e CSS.</span>
           </p>
         </div>
         <div className="card__links">
@@ -100,7 +100,7 @@ export const Projects = () => {
         </div>
         <div className="card__links">
           <a
-            href="https://clone-bl-jlf1nawz8-bruno-luiz.vercel.app/"
+            href="https://clone-bl-i8untv7ze-bruno-luiz.vercel.app/"
             className="link__vercel"
             target="blank"
           >
